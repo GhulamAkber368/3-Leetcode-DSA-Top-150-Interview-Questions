@@ -36,5 +36,3 @@ solution.merge([1,2,3,0,0,0], 3, [2,5,6], 3)
         # r negative which will cause again out of index error.
         # Time Complexity: O(m + n)
         # Space Complexity: O(1)
-
-        # New Commit
